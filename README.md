@@ -1,4 +1,17 @@
-## Oiii eu sou Leandro Abreu. Seja bem vindo!
+# Oiii eu sou Leandro Abreu. Seja bem vindo!
+
+<br>**Hoje trabalho com processamento de dados e business intelligence.**</br>
+* Gosto de criar funcionalidades;
+* Gosto de automação;
+* Gosto de relatórios;
+
+<br>**Todos os passos acima me trouxeram até aqui!** </br>
+
+* JavaScript
+* HTML
+* CSS
+* NodeJs
+* Python
 
 <div align="center">
   <a href="https://github.com/Leandro-java01">
