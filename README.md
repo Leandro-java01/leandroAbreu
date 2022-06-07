@@ -1,4 +1,4 @@
-# Oiii eu sou Leandro Abreu. Seja bem vindo!
+# Oiii, sou Leandro. Seja bem vindo!
 
 <br>**Hoje trabalho com processamento de dados e business intelligence.**</br>
 * Gosto de criar funcionalidades;
