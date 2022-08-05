@@ -1,4 +1,5 @@
-# Oiii, sou Leandro. Seja bem vindo!
+# Oiii, Seja bem vindo!
+
 
 <br>**Hoje trabalho com processamento de dados e business intelligence.**</br>
 * Gosto de criar funcionalidades;
