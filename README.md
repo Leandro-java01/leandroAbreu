@@ -8,11 +8,13 @@
 
 <br>**Todos os passos acima me trouxeram até aqui!** </br>
 
+* Java
+* Python
 * JavaScript
+* NodeJS
 * HTML
 * CSS
-* NodeJs
-* Python
+
 
 <div align="center">
   <a href="https://github.com/Leandro-java01">
