@@ -18,9 +18,9 @@
 
 <div align="center">
   <a href="https://github.com/Leandro-java01">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leandro-java01&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-java01&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-java01&layout=compact&langs_count=7&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-java01&layout=compact&langs_count=7&theme=buefy"/>
 
 </div>
 
