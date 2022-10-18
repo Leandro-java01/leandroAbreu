@@ -1,4 +1,4 @@
-# Oiii, Seja bem vindo!
+# Olá, Seja bem vindo!
 
 
 <br>**Hoje trabalho com processamento de dados e business intelligence.**</br>
@@ -16,25 +16,30 @@
 * CSS
 
 
-<div align="center">
+<div align="justified">
+    
   <a href="https://github.com/Leandro-java01">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro-java01&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-java01&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-java01&layout=compact&langs_count=7&theme=buefy"/>
+  </a>
+  <a href="https://github.com/Leandro-java01">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Leandro-java01&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  </a>
 
 </div>
 
 <div style="display: inline_block"><br>
+  
+  <img align="left" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="left" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Leandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="left" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" alt="Leandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
 
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
   
