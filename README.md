@@ -1,12 +1,9 @@
 # Olá, Seja bem vindo!
 
 
-<br>**Hoje trabalho com processamento de dados e business intelligence.**</br>
-* Gosto de criar funcionalidades;
-* Gosto de automação;
-* Gosto de relatórios;
+<br>Hoje trabalho com processamento de dados, muito focado em analise de dados, automações, novas funcionalidades </br>
 
-<br>**Todos os passos acima me trouxeram até aqui!** </br>
+<br>**Atualmente me aventuro conhecendo novas tecnologias para entender como podem agregar no meu dia a dia, dentre estas, destaco abaixo as que mais me dedico nos últimos tempos.** </br>
 
 * Java
 * Python
